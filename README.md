@@ -44,17 +44,17 @@
 
 ### 📌 Highlight Projects
 
-- 🔄 **ERP Sync API**  
-  RESTful Java backend to integrate and synchronize ERP data using Spring Boot and MySQL.  
-  [GitHub →](https://github.com/marimgabi/erp-sync-api)
+- 🗄️ **SHINee File System**  
+  Lightweight custom file system built in C++ implementing contiguous allocation and bitmap-based block management for educational purposes.  
+  [GitHub →](https://github.com/marimgabi/FileSystemSO)
 
-- 🧬 **Genetic Image Processor**  
-  Personal C++/Python playground for experimenting with image manipulation and filters.  
-  [GitHub →](https://github.com/marimgabi/image-processing-lab)
+- 📋 **Medical reports system**  
+  Complete system for managing medical reports with backend in Java, focado em organização, filtros avançados e controle de laudos.  
+  [GitHub →](https://github.com/marimgabi/sistema-laudos)
 
-- 💻 **Task Manager App**  
-  Fullstack app using Vue.js frontend and FastAPI backend for organizing daily work.  
-  [GitHub →](https://github.com/marimgabi/task-manager-app)
+- 🔐 **TCP protocol with cryptography**  
+  Python implementation of secure TCP communication combining AES-128 encryption and RSA-1024 for key exchange via sockets.  
+  [GitHub →](https://github.com/marimgabi/tcpCryptography)
 
 ---
 
